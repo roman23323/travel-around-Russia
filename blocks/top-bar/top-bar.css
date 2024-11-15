@@ -1,0 +1,14 @@
+.top-bar {
+  max-width: 1184px;
+  width: 93%;
+  margin: 2% auto 48px auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+@media (min-width: 1024px) {
+  .top-bar {
+    margin-bottom: 56px;
+  }
+}

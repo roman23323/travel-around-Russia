@@ -1,0 +1,14 @@
+.lang-bar__lang {
+  font-weight: normal;
+  font-size: 24px;
+  color: #fff;
+  margin-right: 18px;
+}
+.lang-bar__lang:last-of-type {
+  margin-right: 0;
+}
+@media screen and (max-width: 320px) {
+  .lang-bar__lang {
+    font-size: 18px;
+  }
+}

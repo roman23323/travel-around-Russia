@@ -1,0 +1,4 @@
+.lang-bar__lang_option_active {
+  text-decoration: underline;
+  text-underline-offset: 5px;
+}

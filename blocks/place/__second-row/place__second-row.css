@@ -1,0 +1,10 @@
+.place__second-row {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+@media (max-width: 600px) {
+  .place__second-row {
+    flex-direction: column;
+  }
+}

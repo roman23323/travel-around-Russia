@@ -1,0 +1,45 @@
+@import url("../fonts/fonts.css");
+
+@import url("../blocks/root/root.css");
+
+@import url("../blocks/top-bar/top-bar.css");
+@import url("../blocks/top-bar/__logo/top-bar__logo.css");
+@import url("../blocks/lang-bar/lang-bar.css");
+@import url("../blocks/lang-bar/__lang/lang-bar__lang.css");
+@import url("../blocks/lang-bar/__lang/_option/lang-bar__lang_option.css");
+
+@import url("../blocks/header/header.css");
+@import url("../blocks/header/__image/header__image.css");
+@import url("../blocks/header/__quote/header__quote.css");
+@import url("../blocks/header/__subtitle/header__subtitle.css");
+@import url("../blocks/header/__title/header__title.css");
+
+@import url("../blocks/intro/intro.css");
+@import url("../blocks/intro/__number/intro__number.css");
+@import url("../blocks/intro/__list/intro__list.css");
+@import url("../blocks/intro/__text/intro__text.css");
+@import url("../blocks/intro/__title/intro__title.css");
+
+@import url("../blocks/photo-grid/photo-grid.css");
+@import url("../blocks/photo-grid/__image/photo-grid__image.css");
+
+@import url("../blocks/places/places.css");
+@import url("../blocks/place/place.css");
+@import url("../blocks/place/__first-row/place__first-row.css");
+@import url("../blocks/place/__image/place__image.css");
+@import url("../blocks/place/__link/place__link.css");
+@import url("../blocks/place/__paragraph/place__paragraph.css");
+@import url("../blocks/place/__second-row/place__second-row.css");
+@import url("../blocks/place/__title/place__title.css");
+@import url("../blocks/place/__url-heading/place__url-heading.css");
+@import url("../blocks/place/__website/place__website.css");
+
+@import url("../blocks/cover/cover.css");
+@import url("../blocks/cover/__subtitle/cover__subtitle.css");
+@import url("../blocks/cover/__title/cover__title.css");
+@import url("../blocks/cover/__link/cover__link.css");
+
+
+@import url("../blocks/footer/footer.css");
+@import url("../blocks/footer/__copyright/footer__copyright.css");
+@import url("../blocks/footer/__link/footer__link.css");

@@ -1,0 +1,16 @@
+.intro {
+  max-width: 984px;
+  width: 90%;
+  margin: 0 auto 92px auto;
+}
+@media (max-width: 768px) {
+  .intro {
+    width: 93%;
+    margin-bottom: 88px;
+  }
+}
+@media (max-width: 320px) {
+  .intro {
+    margin-bottom: 64px;
+  }
+}

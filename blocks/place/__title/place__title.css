@@ -1,0 +1,38 @@
+.place__title {
+  width: 460px;
+  font-size: 72px;
+  line-height: 76px;
+  margin-bottom: 48px;
+  margin-right: 40px;
+}
+
+@media (max-width: 1024px) {
+  .place__title {
+    width: 440px;
+  }
+}
+
+@media (max-width: 768px) {
+  .place__title {
+    font-size: 42px;
+    line-height: 46px;
+    width: 47%;
+  }
+}
+
+@media (max-width: 600px) {
+  .place__title {
+    width: fit-content;
+  }
+}
+
+@media (max-width: 320px) {
+  .place__title {
+    width: max-content;
+    line-height: 35px;
+    font-size: 32px;
+    margin-bottom: 32px;
+    margin-right: 0;
+    margin-left: 0;
+  }
+}

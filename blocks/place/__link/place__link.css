@@ -1,0 +1,9 @@
+.place__link {
+  font-family: Inter;
+  font-size: 18px;
+  font-weight: 100;
+  text-decoration-line: underline;
+}
+.place__link:visited {
+  color: #FFF;
+}
